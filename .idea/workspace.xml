@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8232458-3250-4b54-b01f-2366902e5d82" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/personalized blog and portfolio app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/personalized blog and portfolio app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pb_prtf/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/pb_prtf/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/static/img/project1.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/static/img/project1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/static/img/project2.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/static/img/project2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/static/img/project3.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/static/img/project3.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="952" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
@@ -145,7 +138,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <frame x="762" y="0" width="781" height="830" extended-state="1" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27651006" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
